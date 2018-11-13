@@ -125,20 +125,21 @@ nav{
 }
 #eg{
     margin-top: 80px;
-    margin-left: 50px;
-    width: 949px;
-    height: 945px;
+    margin-left: 40px;
+    width: 953px;
+    height: 943px;
 }
 #egp{
     font-size: 70px;
-    float: left;
+  
     height: 225px;
     width: 365px;
 }
 #egph1{
-    height: 585px;
-    width: 949px;
-   margin-bottom: 0px;
+    height: 583px;
+    width: 947px;
+    border: solid darkcyan 1px;
+
 }
 #egtxbol{
     
@@ -146,31 +147,66 @@ nav{
     height: 360px;
     width: 584px;
     font-size: 24px;
-    margin-top: 70px;
+    margin-top: 50px;
+    color:darkcyan;
 
 }
 #egtxmal{
-  float: left;
+ 
     width: 219px;
     height: 135px;
  
     font-size: 17px;
+    color:darkcyan;
    
 }
 #egph2{
-    height: 90px;
-    width: 146px;
-    margin-top: 0px;
-    margin-left: 107px;
-    float: left;
+    height: 88px;
+    width: 144px;
+    border: solid darkcyan 1px;
+ 
    
 
 }
 #egph3{
-    width: 73px;
-    height: 45px;
+    width: 71px;
+    height: 43px;
+    float: left;
+    border: solid darkcyan 1px;
 }
 #egph4{
-     width: 73px;
-    height: 45px;
+     width: 71px;
+    height: 43px;
+    float: right;
+    border: solid darkcyan 1px;
+}
+#eg1{
+    height: 362px;
+    width: 369px;
+    float: left;
+    
+   
+}
+#eg2{
+    height: 135px;
+    width: 365px;
+    float: left;
+
+
+}
+#eg3{
+    height: 360px;
+    width: 146px;
+ 
+    float: right;
+}
+#eg4{
+    height: 135px;
+    width: 219px;
+    float: left;
+   
+}
+#eg2tx{
+    float: right;
+    
 }
