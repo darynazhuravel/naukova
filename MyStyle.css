@@ -75,7 +75,7 @@ nav{
 .frtx{
     width: 450px;
     height: 225px;
-    font-size: 18px;
+    font-size: 14px;
     color: cadetblue;
 }
 #tfr{
@@ -98,7 +98,7 @@ nav{
 }
 .txbg{
     width: 300px;
-    font-size: 17px;
+    font-size: 11px;
     color: darkolivegreen;
 }
 #tbbg{
@@ -107,7 +107,7 @@ nav{
 #pltx{
     width: 240px;
     color: darkslategrey;
-    font-size: 18px;
+    font-size: 10px;
 }
 .phpl{
     margin: 10px;
@@ -136,9 +136,9 @@ nav{
     width: 365px;
 }
 #egph1{
-    height: 583px;
-    width: 947px;
-    border: solid darkcyan 1px;
+    height: 580px;
+    width: 944px;
+    border: solid darkcyan 4px;
 
 }
 #egtxbol{
@@ -215,10 +215,10 @@ nav{
     color: darkslategray;
     margin-left: 115px;
 }
-ndtx{
+#ndtx{
      width: 240px;
     color: darkslategrey;
-    font-size: 18px;
+    font-size: 10px;
 }
 .phnd{
      margin: 10px;
@@ -241,7 +241,7 @@ ndtx{
 }
 .txuk{
     width: 300px;
-    font-size: 17px;
+    font-size: 10px;
     color: darkolivegreen;
 }
 #tbuk{
